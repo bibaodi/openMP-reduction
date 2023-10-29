@@ -15,7 +15,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NNN 999
+#define NNN 999//9=>285,99->328350,
 
 int main (int argc, char *argv[]) 
 {
@@ -25,7 +25,7 @@ float a[NNN], b[NNN], sum;
 /* Some initializations */
 n = NNN;
 for (i=0; i < n; i++){
-  a[i] = b[i] = i * 1.0;
+  a[i] = b[i] = i * 1.0+1.0;
 }
 sum = 0.0;
 

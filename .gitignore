@@ -1,3 +1,4 @@
+*.exe
 ### CMake ###
 CMakeCache.txt
 CMakeFiles
