@@ -73,6 +73,7 @@ Session.vim
 *~
 
 out*data
+*.out
 *odb.cxx
 
 # Data-files
